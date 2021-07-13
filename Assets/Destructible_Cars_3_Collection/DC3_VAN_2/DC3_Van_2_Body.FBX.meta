@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 41e93cc11ecfe214288db4f4b4fc99c7
+timeCreated: 1524911810
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DC3_Van_2_Body
+    100004: DC3_Van_2_Door_FL
+    100006: DC3_Van_2_Door_FR
+    100008: DC3_Van_2_Door_ML
+    100010: DC3_Van_2_Door_MR
+    100012: DC3_Van_2_Glass_B
+    100014: DC3_Van_2_Glass_BL
+    100016: DC3_Van_2_Glass_BR
+    100018: 'DC3_Van_2_Glass_F '
+    100020: DC3_Van_2_Glass_FL
+    100022: DC3_Van_2_Glass_FR
+    100024: DC3_Van_2_Glass_ML
+    100026: DC3_Van_2_Glass_MR
+    100028: DC3_Van_2_Glass_Tesselated_B
+    100030: DC3_Van_2_Glass_Tesselated_BL
+    100032: DC3_Van_2_Glass_Tesselated_BR
+    100034: 'DC3_Van_2_Glass_Tesselated_F '
+    100036: DC3_Van_2_Glass_Tesselated_FL
+    100038: DC3_Van_2_Glass_Tesselated_FR
+    100040: DC3_Van_2_Glass_Tesselated_ML
+    100042: DC3_Van_2_Glass_Tesselated_MR
+    100044: DC3_Van_2_Hood
+    100046: DC3_Van_2_Interior_Fuel_Metr
+    100048: DC3_Van_2_Interior_Gearbox
+    100050: DC3_Van_2_Interior_Handle_L
+    100052: DC3_Van_2_Interior_Handle_R
+    100054: DC3_Van_2_Interior_Oil_Temperature
+    100056: DC3_Van_2_Interior_Speedometer
+    100058: DC3_Van_2_Interior_Steering_Wheel
+    100060: DC3_Van_2_Interior_Tachometer
+    100062: DC3_Van_2_Lights
+    100064: DC3_Van_2_Roof
+    100066: DC3_Van_2_Trunk
+    400000: DC3_Van_2_Body
+    400002: //RootNode
+    400004: DC3_Van_2_Door_FL
+    400006: DC3_Van_2_Door_FR
+    400008: DC3_Van_2_Door_ML
+    400010: DC3_Van_2_Door_MR
+    400012: DC3_Van_2_Glass_B
+    400014: DC3_Van_2_Glass_BL
+    400016: DC3_Van_2_Glass_BR
+    400018: 'DC3_Van_2_Glass_F '
+    400020: DC3_Van_2_Glass_FL
+    400022: DC3_Van_2_Glass_FR
+    400024: DC3_Van_2_Glass_ML
+    400026: DC3_Van_2_Glass_MR
+    400028: DC3_Van_2_Glass_Tesselated_B
+    400030: DC3_Van_2_Glass_Tesselated_BL
+    400032: DC3_Van_2_Glass_Tesselated_BR
+    400034: 'DC3_Van_2_Glass_Tesselated_F '
+    400036: DC3_Van_2_Glass_Tesselated_FL
+    400038: DC3_Van_2_Glass_Tesselated_FR
+    400040: DC3_Van_2_Glass_Tesselated_ML
+    400042: DC3_Van_2_Glass_Tesselated_MR
+    400044: DC3_Van_2_Hood
+    400046: DC3_Van_2_Interior_Fuel_Metr
+    400048: DC3_Van_2_Interior_Gearbox
+    400050: DC3_Van_2_Interior_Handle_L
+    400052: DC3_Van_2_Interior_Handle_R
+    400054: DC3_Van_2_Interior_Oil_Temperature
+    400056: DC3_Van_2_Interior_Speedometer
+    400058: DC3_Van_2_Interior_Steering_Wheel
+    400060: DC3_Van_2_Interior_Tachometer
+    400062: DC3_Van_2_Lights
+    400064: DC3_Van_2_Roof
+    400066: DC3_Van_2_Trunk
+    2300000: DC3_Van_2_Body
+    2300002: DC3_Van_2_Door_FL
+    2300004: DC3_Van_2_Door_FR
+    2300006: DC3_Van_2_Door_ML
+    2300008: DC3_Van_2_Door_MR
+    2300010: DC3_Van_2_Glass_B
+    2300012: DC3_Van_2_Glass_BL
+    2300014: DC3_Van_2_Glass_BR
+    2300016: 'DC3_Van_2_Glass_F '
+    2300018: DC3_Van_2_Glass_FL
+    2300020: DC3_Van_2_Glass_FR
+    2300022: DC3_Van_2_Glass_ML
+    2300024: DC3_Van_2_Glass_MR
+    2300026: DC3_Van_2_Glass_Tesselated_B
+    2300028: DC3_Van_2_Glass_Tesselated_BL
+    2300030: DC3_Van_2_Glass_Tesselated_BR
+    2300032: 'DC3_Van_2_Glass_Tesselated_F '
+    2300034: DC3_Van_2_Glass_Tesselated_FL
+    2300036: DC3_Van_2_Glass_Tesselated_FR
+    2300038: DC3_Van_2_Glass_Tesselated_ML
+    2300040: DC3_Van_2_Glass_Tesselated_MR
+    2300042: DC3_Van_2_Hood
+    2300044: DC3_Van_2_Interior_Fuel_Metr
+    2300046: DC3_Van_2_Interior_Gearbox
+    2300048: DC3_Van_2_Interior_Handle_L
+    2300050: DC3_Van_2_Interior_Handle_R
+    2300052: DC3_Van_2_Interior_Oil_Temperature
+    2300054: DC3_Van_2_Interior_Speedometer
+    2300056: DC3_Van_2_Interior_Steering_Wheel
+    2300058: DC3_Van_2_Interior_Tachometer
+    2300060: DC3_Van_2_Lights
+    2300062: DC3_Van_2_Roof
+    2300064: DC3_Van_2_Trunk
+    3300000: DC3_Van_2_Body
+    3300002: DC3_Van_2_Door_FL
+    3300004: DC3_Van_2_Door_FR
+    3300006: DC3_Van_2_Door_ML
+    3300008: DC3_Van_2_Door_MR
+    3300010: DC3_Van_2_Glass_B
+    3300012: DC3_Van_2_Glass_BL
+    3300014: DC3_Van_2_Glass_BR
+    3300016: 'DC3_Van_2_Glass_F '
+    3300018: DC3_Van_2_Glass_FL
+    3300020: DC3_Van_2_Glass_FR
+    3300022: DC3_Van_2_Glass_ML
+    3300024: DC3_Van_2_Glass_MR
+    3300026: DC3_Van_2_Glass_Tesselated_B
+    3300028: DC3_Van_2_Glass_Tesselated_BL
+    3300030: DC3_Van_2_Glass_Tesselated_BR
+    3300032: 'DC3_Van_2_Glass_Tesselated_F '
+    3300034: DC3_Van_2_Glass_Tesselated_FL
+    3300036: DC3_Van_2_Glass_Tesselated_FR
+    3300038: DC3_Van_2_Glass_Tesselated_ML
+    3300040: DC3_Van_2_Glass_Tesselated_MR
+    3300042: DC3_Van_2_Hood
+    3300044: DC3_Van_2_Interior_Fuel_Metr
+    3300046: DC3_Van_2_Interior_Gearbox
+    3300048: DC3_Van_2_Interior_Handle_L
+    3300050: DC3_Van_2_Interior_Handle_R
+    3300052: DC3_Van_2_Interior_Oil_Temperature
+    3300054: DC3_Van_2_Interior_Speedometer
+    3300056: DC3_Van_2_Interior_Steering_Wheel
+    3300058: DC3_Van_2_Interior_Tachometer
+    3300060: DC3_Van_2_Lights
+    3300062: DC3_Van_2_Roof
+    3300064: DC3_Van_2_Trunk
+    4300000: DC3_Van_2_Interior_Steering_Wheel
+    4300002: DC3_Van_2_Lights
+    4300004: DC3_Van_2_Interior_Gearbox
+    4300006: DC3_Van_2_Interior_Tachometer
+    4300008: DC3_Van_2_Interior_Speedometer
+    4300010: DC3_Van_2_Interior_Fuel_Metr
+    4300012: DC3_Van_2_Interior_Oil_Temperature
+    4300014: DC3_Van_2_Glass_FL
+    4300016: DC3_Van_2_Glass_FR
+    4300018: DC3_Van_2_Glass_B
+    4300020: DC3_Van_2_Glass_ML
+    4300022: DC3_Van_2_Glass_MR
+    4300024: DC3_Van_2_Glass_BL
+    4300026: DC3_Van_2_Glass_BR
+    4300028: DC3_Van_2_Hood
+    4300030: DC3_Van_2_Roof
+    4300032: DC3_Van_2_Interior_Handle_R
+    4300034: DC3_Van_2_Interior_Handle_L
+    4300036: 'DC3_Van_2_Glass_F '
+    4300038: DC3_Van_2_Trunk
+    4300040: DC3_Van_2_Door_FL
+    4300042: DC3_Van_2_Door_FR
+    4300044: DC3_Van_2_Door_ML
+    4300046: DC3_Van_2_Door_MR
+    4300048: DC3_Van_2_Body
+    4300050: 'DC3_Van_2_Glass_Tesselated_F '
+    4300052: DC3_Van_2_Glass_Tesselated_FL
+    4300054: DC3_Van_2_Glass_Tesselated_FR
+    4300056: DC3_Van_2_Glass_Tesselated_MR
+    4300058: DC3_Van_2_Glass_Tesselated_ML
+    4300060: DC3_Van_2_Glass_Tesselated_BL
+    4300062: DC3_Van_2_Glass_Tesselated_B
+    4300064: DC3_Van_2_Glass_Tesselated_BR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
