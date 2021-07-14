@@ -29,17 +29,17 @@ public class CoinDecreaseController : MonoBehaviour
     private void ItemDropped()
     {
 
-        if (totalCoin != 0 & totalCoin > 0)
-        {
+        if ( totalCoin > 0)
+        {   
             totalCoin--;
             coinText.text = totalCoin.ToString();
 
         }
-        else if (totalCoin == 0)
+        else 
         {
-           
+           Debug.Log("2");
             FailCanvas.SetActive(true);
-             Time.timeScale = 0;
+            Time.timeScale = 0;
             coinText.text = totalCoin.ToString();
         }
 

@@ -15,6 +15,7 @@ public class RestartButton : MonoBehaviour
         SuccessCanvas.SetActive(false);
         FailCanvas.SetActive(false);
         StartCanvas.SetActive(false);
+        Time.timeScale = 1;
     }
 
 }
